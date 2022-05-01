@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.faisal.mid2">
-
-    <!--Request Internet connection-->
-    <uses-permission android:name="android.permission.INTERNET" />
-    <!--Request to check Internet connection state-->
+    <!-- Request Internet connection -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Request to check Internet connection state -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
@@ -14,6 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MID2">
+        <activity
+            android:name=".Master2"
+            android:exported="false" />
         <activity
             android:name=".Master"
             android:exported="false" />

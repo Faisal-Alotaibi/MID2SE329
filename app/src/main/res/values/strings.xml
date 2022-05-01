@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MID2</string>
+
+    <string-array name="cities">
+        <item>london</item>
+        <item>riyadh</item>
+        <item>jeddah</item>
+    </string-array>
 </resources>

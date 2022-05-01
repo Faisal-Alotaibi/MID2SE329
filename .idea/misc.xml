@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/FzoOT/AndroidStudioProjects/MID2/app/src/main/res/drawable/animation.xml" value="0.1" />
         <entry key="..\:/Users/FzoOT/AndroidStudioProjects/MID2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/FzoOT/AndroidStudioProjects/MID2/app/src/main/res/layout/activity_master.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/FzoOT/AndroidStudioProjects/MID2/app/src/main/res/layout/activity_master2.xml" value="0.17346014492753623" />
       </map>
     </option>
   </component>
